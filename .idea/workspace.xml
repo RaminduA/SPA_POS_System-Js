@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c8785c3-b037-47b8-b0de-3644dc1bcb9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="245NiNgCFSn1PKt3JMaOjQP5sSq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/model" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RAMINDU\Desktop\POS System SPA\model" />
+      <recent name="C:\Users\RAMINDU\Desktop\Bootstrap POS System\model" />
+      <recent name="C:\Users\RAMINDU\Desktop\Bootstrap POS System\controller" />
+      <recent name="C:\Users\RAMINDU\Desktop\Bootstrap POS System" />
+      <recent name="C:\Users\RAMINDU\Desktop\Bootstrap POS System\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RAMINDU\Desktop\Bootstrap POS System\controller" />
+      <recent name="C:\Users\RAMINDU\Desktop\Bootstrap POS System\assets\images" />
+      <recent name="C:\Users\RAMINDU\Desktop\Bootstrap POS System\assets\bootstrap" />
+      <recent name="C:\Users\RAMINDU\Desktop\Bootstrap POS System\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c8785c3-b037-47b8-b0de-3644dc1bcb9a" name="Default Changelist" comment="" />
+      <created>1642916613165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642916613165</updated>
+      <workItem from="1642916621181" duration="4424000" />
+      <workItem from="1643256556548" duration="6345000" />
+      <workItem from="1644211199204" duration="640000" />
+      <workItem from="1646709632163" duration="7766000" />
+      <workItem from="1646874561511" duration="14023000" />
+      <workItem from="1646899754592" duration="14491000" />
+      <workItem from="1646972861530" duration="8239000" />
+      <workItem from="1646988607878" duration="7066000" />
+      <workItem from="1647021060753" duration="1307000" />
+      <workItem from="1647022638306" duration="257000" />
+      <workItem from="1647022916323" duration="42091000" />
+      <workItem from="1647098158053" duration="365000" />
+      <workItem from="1647187312001" duration="13000" />
+      <workItem from="1647728519134" duration="2539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="335" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1646713570682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="526" y="335" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1646713570682" />
+    <state x="270" y="14" key="SettingsEditor" timestamp="1646903701018">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="14" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1646903701018" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1646988670512">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1646988670512" />
+  </component>
+</project>
